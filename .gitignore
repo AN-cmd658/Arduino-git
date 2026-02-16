@@ -1,0 +1,9 @@
+# Временные файлы Arduino IDE
+ *.elf
+ *.bin
+ *.hex
+ *.tmp
+ build/
+ # Служебные папки и файлы ОС
+ .DS_Store
+ Thumbs.db
